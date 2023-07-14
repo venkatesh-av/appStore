@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.AppItem-container {
+  background-color: white;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0px 4px 16px 0px #bcbcbc;
+}
+
+.appItem-img {
+  height: 100px;
+  width: 100px;
+}
+
+.appItem-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}
